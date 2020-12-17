@@ -26,10 +26,5 @@ Here are some ideas to get you started:
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
   </em>  
 </p>
-
-
-	
-  [![Hits](https://hits.2SunE.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.2SunE.com) 
-
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
