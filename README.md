@@ -27,10 +27,9 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
- <div align=center>
+
 	
   [![Hits](https://hits.2SunE.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.2SunE.com) 
-	
-  </div>
+
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
