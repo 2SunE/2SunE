@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2SunE&count_bg=%23D1D3FF&title_bg=%239A92FF&icon=iconify.svg&icon_color=%23FFFFFF&title=2SunE&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **2SunE/2SunE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
