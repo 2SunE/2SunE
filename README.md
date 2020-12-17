@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=2SunE)](https://solved.ac/2SunE)
+
+
+  <div align=center>
+    [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://2SunE.github.io/)](https://2SunE.github.io/) 
+   </div>
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
