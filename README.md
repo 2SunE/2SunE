@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  <em>
+    저는 <b>뉴비</b> 학생 개발자입니다. 👨‍💻 <br>
+    다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
+    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+  </em>  
+</p>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=2SunE)](https://solved.ac/2SunE)
