@@ -1,4 +1,4 @@
-### Lee Seon | 이 선 👋
+### :purple_heart: :heart: 이 선 | Lee Seon :heart: :purple_heart:
 
 <p>
   <b>주니어</b> 개발자 👩🏻‍💻 <br>
