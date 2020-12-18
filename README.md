@@ -1,6 +1,5 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0705429363761.5605fffe0d310.gif" height="100" width="100"></img>
-
 <div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0705429363761.5605fffe0d310.gif" height="100" width="100"></img>
   <p>
     <b>:purple_heart: :heart: 이 선 | Lee Seon :heart: :purple_heart:</b>
   </p>
