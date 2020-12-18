@@ -4,7 +4,7 @@
   </h3>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0705429363761.5605fffe0d310.gif" height="100" width="100"></img>
   <p>
-     <br> 멋진 <b>주니어</b> 개발자 👩🏻‍💻 <br>
+     <br> 멋진 <b>개발자</b>가 될  👩🏻‍💻 <br>
     :point_up:일 :point_up:알고리즘을 실천해서 <b>잔디</b>:seedling:를 가득 채울예정
   </p>
   
