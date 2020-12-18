@@ -1,3 +1,5 @@
+<img src="https://a5.behance.net/954559af9bf55770ea0445294c932f70466e2024/js/sso/shim-config.js?cb=264615658.gif" width="90%"></img>
+
 <div align="center">
   <p>
     <b>:purple_heart: :heart: 이 선 | Lee Seon :heart: :purple_heart:</b>
