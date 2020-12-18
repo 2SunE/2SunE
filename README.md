@@ -1,4 +1,4 @@
-<img src="https://a5.behance.net/954559af9bf55770ea0445294c932f70466e2024/js/sso/shim-config.js?cb=264615658.gif" width="90%"></img>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0705429363761.5605fffe0d310.gif" width="90%"></img>
 
 <div align="center">
   <p>
