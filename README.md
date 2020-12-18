@@ -1,6 +1,6 @@
 ### :purple_heart: :heart: 이 선 | Lee Seon :heart: :purple_heart:
 
-<div style="text-aglin:center;">
+<div style="aglin:center">
   <p>
     <b>주니어</b> 개발자 👩🏻‍💻 <br>
     :point_up:일 :point_up:알고리즘을 실천해서 <b>잔디</b>:seedling:를 가득 채울예정
