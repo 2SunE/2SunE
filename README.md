@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=-10&color=gradient&fontSize=100&height=150)
+![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=-10&color=timeGradient&fontSize=100&height=150)
 
 <div align="center">
   <h3>
@@ -56,3 +56,5 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer&fontSize=90" />
