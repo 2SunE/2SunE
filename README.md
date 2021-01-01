@@ -11,7 +11,9 @@
   <a href="https://github.com/2SunE"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2SunE&count_bg=%23D1D3FF&title_bg=%239A92FF&icon=iconify.svg&icon_color=%23FFFFFF&title=2SunE&edge_flat=false"/></a>
 </div> 
 
-**Programming Languages** <br>
+<br><br>
+
+:computer: **Programming Languages** <br>
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -25,8 +27,8 @@
 
 <br>
 
-<p align="center">
-  <strong> Frameworks and libraries </strong> <br><br>
+:file_folder: **Frameworks and libraries** <br>
+<p>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -34,31 +36,31 @@
 
 <br>
 
+:art: **Design** <br>
 <p align="center">
-  <strong> Design </strong> <br><br>
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </p>
 
 <br>
 
+:two_men_holding_hands: **Version Control** <br>
 <p align="center">
-  <strong> Version Control </strong> <br><br>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <br>
 
+:satellite: **Servers** <br>
 <p align="center">
-  <strong> Servers </strong> <br><br>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 <br>
 
+:pencil: **Databases** <br>
 <p align="center">
-  <strong> Databases </strong> <br><br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
