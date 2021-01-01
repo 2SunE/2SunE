@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  :file_folder: <b>Frameworks and libraries</b> 
+  <p> :file_folder: <b>Frameworks and libraries</b> <p>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
