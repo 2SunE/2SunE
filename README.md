@@ -11,8 +11,8 @@
   <a href="https://github.com/2SunE"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2SunE&count_bg=%23D1D3FF&title_bg=%239A92FF&icon=iconify.svg&icon_color=%23FFFFFF&title=2SunE&edge_flat=false"/></a>
 </div> 
 
-<p align="center">
-  <strong> Programming Languages </strong> <br><br>
+**Programming Languages** <br>
+<p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
