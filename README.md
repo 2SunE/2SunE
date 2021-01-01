@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=👋&fontSize=20&rotate=-10&color=gradient&fontSize=100&height=150)
+![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=-10&color=gradient&fontSize=100&height=150)
 
 <div align="center">
   <h3>
