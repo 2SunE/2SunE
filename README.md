@@ -37,7 +37,7 @@
 <br>
 
 :art: **Design** <br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </p>
@@ -45,7 +45,7 @@
 <br>
 
 :two_men_holding_hands: **Version Control** <br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -53,14 +53,14 @@
 <br>
 
 :satellite: **Servers** <br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 <br>
 
 :pencil: **Databases** <br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
