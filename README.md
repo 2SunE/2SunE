@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h3>
     <b>:purple_heart: :heart: 이 선 | Lee Seon :heart: :purple_heart:</b>
   </h3>
