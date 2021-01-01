@@ -15,7 +15,7 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2SunE&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SunE&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SunE&layout=compact&theme=buefy)
 
 <br>
 
