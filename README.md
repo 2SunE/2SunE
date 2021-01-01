@@ -14,6 +14,11 @@
 
 <br>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2SunE&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SunE&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <p align="center">
   :computer: <b>Programming Languages</b> <br><br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -55,9 +60,5 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2SunE&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SunE&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer&fontSize=90" />
