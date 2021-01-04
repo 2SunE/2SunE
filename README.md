@@ -60,5 +60,5 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer&fontSize=90" />
